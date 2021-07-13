@@ -1,6 +1,4 @@
 from manim import *
-import numpy as np
-import math
 
 import os,sys,inspect
 current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
